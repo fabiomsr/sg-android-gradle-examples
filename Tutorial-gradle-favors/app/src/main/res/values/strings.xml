@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Tutorial-gradle-favors</string>
-    <string name="build_info">Build %1$s | Flavor %2$s</string>
-
-</resources>

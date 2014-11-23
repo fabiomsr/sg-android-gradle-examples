@@ -1,0 +1,94 @@
+{
+  "results": [
+    {
+      "user": {
+        "name": {
+          "title": "mr",
+          "first": "marvin",
+          "last": "little"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "miss",
+          "first": "miriam",
+          "last": "brewer"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mr",
+          "first": "thomas",
+          "last": "shaw"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mrs",
+          "first": "sheila",
+          "last": "phillips"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mr",
+          "first": "hunter",
+          "last": "moore"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mrs",
+          "first": "laurie",
+          "last": "reyes"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mrs",
+          "first": "tracy",
+          "last": "davis"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mr",
+          "first": "christopher",
+          "last": "mccoy"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "mr",
+          "first": "jack",
+          "last": "fox"
+        }
+      }
+    },
+    {
+      "user": {
+        "name": {
+          "title": "ms",
+          "first": "emily",
+          "last": "morgan"
+        }
+      }
+    }
+  ]
+}
